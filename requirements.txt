@@ -1,0 +1,2 @@
+# need to install module
+# 直接安装 pip install wxpy
